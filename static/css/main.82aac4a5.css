@@ -1,0 +1,2 @@
+.App{grid-column-gap:10px;display:grid;grid-template-columns:1fr 1fr 1fr}body{margin:20px}.content{align-items:center;background:#eee8aa;border:3px solid gray;display:flex;flex-direction:column;margin-bottom:20px}.content img{height:300px;width:300px}.pricePlace{display:flex;justify-content:space-between;width:100px}.pricePlace button{font-size:25px;height:30px;margin-top:10px;width:30px}.counter{align-items:center;display:flex;height:20px;justify-content:center;width:20px}
+/*# sourceMappingURL=main.82aac4a5.css.map*/
